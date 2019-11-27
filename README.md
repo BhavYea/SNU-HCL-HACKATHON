@@ -1,6 +1,5 @@
 # HCL SNU HACKATHON-FRONT-END
 
-## Preview
 
 ## Download and Installation
 
